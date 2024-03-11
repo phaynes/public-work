@@ -1,6 +1,6 @@
 # EDST8301 Inclusive and Special Education. Exercise Wk 4.
 
-## The impairement we chose: Aleithymia
+## The impairement we chose: Alexithymia
 Alexithymia means being ‘blind’ to one’s own emotions and to those of others.
 
 ## Method of finding an journal article: Google Scholar
