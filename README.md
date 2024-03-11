@@ -9,7 +9,7 @@ Google Scholar search <code>Alexithymia in high school  education face to face 
 This was followed up by a skim of the articles for suitabilty.
 
 ## Article Chosen
-(Alexithymia and Internet Addiction in Children: Meaning in Life as Mediator and Reciprocal Filial Piety as Moderator) [https://www.dovepress.com/alexithymia-and-internet-addiction-in-children-meaning-in-life-as-medi-peer-reviewed-fulltext-article-PRBM]
+Alexithymia and Internet Addiction in Children: Meaning in Life as Mediator and Reciprocal Filial Piety as Moderator [https://www.dovepress.com/alexithymia-and-internet-addiction-in-children-meaning-in-life-as-medi-peer-reviewed-fulltext-article-PRBM]
 
 <code>
 Li Y, Yue P, Zhang M. Alexithymia and Internet Addiction in Children: Meaning in Life as Mediator and Reciprocal Filial Piety as Moderator. Psychol Res Behav Manag. 2023;16:3597-3606
@@ -18,15 +18,14 @@ https://doi.org/10.2147/PRBM.S423200
 
 ### Criteria: locate one recent (published in the last ten years) research study (needs to be a journal article) 
 This journal article is published in 2023 and discusses Alexithymia in middle school students.
-### Criteria: Original empirical research
 
-The article contains  based on original empirical research
+### Criteria: Original empirical research
+The article contains original empirical research
 
 ### Criteria: one type of disability in relation to either primary/elementary; or secondary school students
-The article discusses 899 middle school students (ages 11 to 14)
+The article studies 899 middle school students (ages 11 to 14)
 
-
-## Analysis
+## Analysis of article.
 
 
 
