@@ -26,7 +26,13 @@ The article contains original empirical research
 The article studies 899 middle school students (ages 11 to 14)
 
 ## Analysis of article.
-
+1. Alexithymia is negatively correlated with meaning in life and reciprocal filial piety, and positively correlated with Internet addiction.
+2. Meaning in life is positively correlated with reciprocal filial piety and negatively correlated with Internet addiction.
+3. Reciprocal filial piety is positively correlated with authoritarian filial piety and negatively correlated with Internet addiction.
+4. Alexithymia can predict Internet addiction directly and indirectly through meaning in life.
+5. Reciprocal filial piety moderates the relationship between meaning in life and Internet addiction; authoritarian filial piety does not have this moderating effect.
+6. For middle school students with low reciprocal filial piety, meaning in life negatively predicts Internet addiction.
+7.  For those with high reciprocal filial piety, there is no significant relationship between meaning in life and Internet addiction
 
 
 # References
