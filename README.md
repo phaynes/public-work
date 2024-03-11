@@ -1,4 +1,4 @@
-# public-work - EDST8301 Inclusive and Special Education
+# EDST8301 Inclusive and Special Education. Exercise Wk 4.
 
 1. The impairement we have chosen is aleithymia.
    Alexithymia means being ‘blind’ to one’s own emotions and to those of others.
