@@ -3,13 +3,13 @@
 1. The impairement we have chosen is aleithymia.
    Alexithymia means being ‘blind’ to one’s own emotions and to those of others.
    
+2. What In your groups, 
+1. locate one recent (published in the last ten years) research study (needs to be a journal article)  that discusses a type of impairment. 
 
-(Article )[https://www.dovepress.com/alexithymia-and-internet-addiction-in-children-meaning-in-life-as-medi-peer-reviewed-fulltext-article-PRBM]
-This is public work space for Philip Haynes
+The search term using Google was "Alexithymia in high school  education face to face versus remote "
+
+(Alexithymia and Internet Addiction in Children: Meaning in Life as Mediator and Reciprocal Filial Piety as Moderator ) [https://www.dovepress.com/alexithymia-and-internet-addiction-in-children-meaning-in-life-as-medi-peer-reviewed-fulltext-article-PRBM]
  
-What In your groups, 
-1. locate one recent (published in the last ten years) research study (needs to be a journal article) 
-2. that discusses a type of impairment. 
 
 Alexithymia means being ‘blind’ to one’s own emotions and to those of others
 In class and remote.
