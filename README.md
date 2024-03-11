@@ -10,8 +10,11 @@ This was followed up by a skim of the articles for suitabilty.
 
 ## Article Chosen
 (Alexithymia and Internet Addiction in Children: Meaning in Life as Mediator and Reciprocal Filial Piety as Moderator) [https://www.dovepress.com/alexithymia-and-internet-addiction-in-children-meaning-in-life-as-medi-peer-reviewed-fulltext-article-PRBM]
-<code>Li Y, Yue P, Zhang M. Alexithymia and Internet Addiction in Children: Meaning in Life as Mediator and Reciprocal Filial Piety as Moderator. Psychol Res Behav Manag. 2023;16:3597-3606
-https://doi.org/10.2147/PRBM.S423200</code>
+
+<code>
+Li Y, Yue P, Zhang M. Alexithymia and Internet Addiction in Children: Meaning in Life as Mediator and Reciprocal Filial Piety as Moderator. Psychol Res Behav Manag. 2023;16:3597-3606
+https://doi.org/10.2147/PRBM.S423200
+</code>
 
 ### Criteria: locate one recent (published in the last ten years) research study (needs to be a journal article) 
 This journal article is published in 2023 and discusses Alexithymia in middle school students.
@@ -20,25 +23,11 @@ This journal article is published in 2023 and discusses Alexithymia in middle sc
 The article contains  based on original empirical research
 
 ### Criteria: one type of disability in relation to either primary/elementary; or secondary school students
-
-2. What In your groups, 
-1. locate one recent (published in the last ten years) research study (needs to be a journal article)  that discusses a type of impairment. 
+The article discusses 899 middle school students (ages 11 to 14)
 
 
-(Alexithymia and Internet Addiction in Children: Meaning in Life as Mediator and Reciprocal Filial Piety as Moderator ) [https://www.dovepress.com/alexithymia-and-internet-addiction-in-children-meaning-in-life-as-medi-peer-reviewed-fulltext-article-PRBM]
- 
+## Analysis
 
-Alexithymia means being ‘blind’ to one’s own emotions and to those of others
-In class and remote.
-
-3. The article you choose needs to be based on original empirical research  (articles focusing on literature review should not be used for this activity)
-
-The research study should examine:
-one type of disability in relation to either primary/elementary; or 
-secondary school students  (exclude studies with university or college students). 
-
-
-## Inclusive 
 
 
 # References
