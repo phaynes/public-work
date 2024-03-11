@@ -1,12 +1,19 @@
 # EDST8301 Inclusive and Special Education. Exercise Wk 4.
 
-1. The impairement we have chosen is aleithymia.
-   Alexithymia means being ‘blind’ to one’s own emotions and to those of others.
-   
+## The impairement we chose: Aleithymia
+.Alexithymia means being ‘blind’ to one’s own emotions and to those of others.
+
+## Method of finding an journal article: Google Scholar
+Google Scholar search, Alexithymia in high school  education face to face versus remote.
+
+followed up by a skim of the articles for suitabilty.
+   The search team used was: "
+## Article Chosen
+(Alexithymia and Internet Addiction in Children: Meaning in Life as Mediator and Reciprocal Filial Piety as Moderator ) [https://www.dovepress.com/alexithymia-and-internet-addiction-in-children-meaning-in-life-as-medi-peer-reviewed-fulltext-article-PRBM]
+
 2. What In your groups, 
 1. locate one recent (published in the last ten years) research study (needs to be a journal article)  that discusses a type of impairment. 
 
-The search term using Google was "Alexithymia in high school  education face to face versus remote "
 
 (Alexithymia and Internet Addiction in Children: Meaning in Life as Mediator and Reciprocal Filial Piety as Moderator ) [https://www.dovepress.com/alexithymia-and-internet-addiction-in-children-meaning-in-life-as-medi-peer-reviewed-fulltext-article-PRBM]
  
