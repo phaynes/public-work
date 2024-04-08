@@ -1,4 +1,4 @@
-# Reflective questions.
+# Reflective Questions
 
 1. What is she saying about her disability?
 
