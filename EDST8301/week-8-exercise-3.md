@@ -1,6 +1,4 @@
-Reflective questions.
-
-Think about and discuss in your groups:
+# Reflective questions.
 
 1. What is she saying about her disability?
 
